@@ -80,29 +80,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "José Sebastian Cañon Moreno"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Integration & Automation Professional en Olimpia IT"
+  location         : "Bogotá"
+  employer         : "https://www.olimpiait.com/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "jose.canon@olimpiait.com"
+  researchgate     : "http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001612406"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/josebask/"
   foursquare       :
-  github           : "academicpages"
+  github           : "jscanon"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jos%C3%A9-sebastian-ca%C3%B1on-moreno-22601b57/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
