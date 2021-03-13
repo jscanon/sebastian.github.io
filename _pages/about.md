@@ -21,8 +21,8 @@ Actualmetente me encuentro trabajando como Integration & Automation Professional
 
 </div>
 
-
-
+&nbsp;
+&nbsp;
 
 A data-driven personal website
 ======
