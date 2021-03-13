@@ -19,9 +19,7 @@ redirect_from:
 
 Actualmetente me encuentro trabajando como Integration & Automation Professional para la empresa Olimpia IT, alli desempeño labores funcionales en apoyo a la transformación digital de la compañia, en ambientes tanto tecnicos buscando general eficiencia en los procesos a traves del uso de herramientas tecnologicas, cómo desde la gestión del cambio y gestión de conocimiento, apoyando en la apropiación de la digitalización de procesos.
 
-<div/>
-
-
+</div>
 
 A data-driven personal website
 ======
